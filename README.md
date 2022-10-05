@@ -40,6 +40,31 @@ Hacktoberfest is a month long celebration of open source software by DigitalOcea
 
 <br>
 
+## App Design
+
+This section contain the images of what the app will look like
+
+### OnBoarding Screens
+
+<table border="0">
+<tr>
+<td align="center" ><img src="app_preview/OnBoarding_Screen_1.png" width="250px"/><br><p><b>OnBoarding screen 1</b></p></td>
+<td align="center"><img src="app_preview/OnBoarding_Screen_2.png" width="250px"/><br><p><b>OnBoarding screen 2</b></p></td>
+<td align="center"><img src="app_preview/OnBoarding_Screen_3.png" width="250px"/><br><p><b>OnBoarding screen 3</b></p></td>
+</tr>
+</table>
+
+### Sign Up Screens
+
+<table border="0">
+<tr>
+<td align="center" ><img src="app_preview/SignUp_way.png" width="250px"/><br><p><b>Sign Up Way screen</b></p></td>
+<td align="center"><img src="app_preview/SignUp_by_email.png" width="250px"/><br><p><b>Sign Up by E-mail</b></p></td>
+</tr>
+</table>
+
+### Sign In Screen
+<div><img src="app_preview/SignIn.png" width="250px"/><br><p><b>Sign In screen</b></p></div>
 
 
 ## About this repository
